@@ -42,6 +42,77 @@ A robot that can detect plastic bottles on water bodies and collect them.
 
 
 
-### Resnet50 architecture is used to develop object detection modle
+### Resnet50 architecture is used to develop object detection model
 
 ![WhatsApp Image 2022-12-13 at 12 26 49 AM](https://user-images.githubusercontent.com/87496409/207132389-c3ada2ce-05c2-4f0a-a072-680d8fb97428.jpeg)
+
+
+
+### Output of object detection model
+
+
+Figure 1
+
+
+![Screenshot (224)](https://user-images.githubusercontent.com/87496409/207134052-0a8702f6-7443-4cab-a79b-2bdb16d61b52.png)
+
+
+
+Figure 2
+
+
+![Screenshot](https://user-images.githubusercontent.com/87496409/207134244-21be4e9c-00aa-45b7-b936-497ba5a5f0fe.png)
+
+
+
+Figure 3
+
+
+![Screenshot (225)](https://user-images.githubusercontent.com/87496409/207134331-88b78de4-a303-4304-9b90-88dfb879ab21.png)
+
+
+
+Figure 4
+
+
+![Screenshot (223)](https://user-images.githubusercontent.com/87496409/207134364-0a8e9a75-389b-4a1b-a54f-710e85200cd4.png)
+
+
+
+
+## Execution
+
+### Aquabot floating on the water
+
+
+https://user-images.githubusercontent.com/87496409/207135665-e37d10cb-969a-4d0d-96e6-ab66380b1321.mp4
+
+
+### Aquabot moving on the water
+
+
+https://user-images.githubusercontent.com/87496409/207136090-45ab11f3-dad8-49a1-bd95-d53d3a1ba19b.mp4
+
+
+
+### Aquabot taking left turn
+
+
+https://user-images.githubusercontent.com/87496409/207135861-5d527bbf-307e-45fe-9dcb-a6492928fe11.mp4
+
+
+### Aquabot taking right turn
+
+
+
+https://user-images.githubusercontent.com/87496409/207135920-96ac3630-c932-402f-bc88-58427cd9107b.mp4
+
+
+
+### Aquabot collecting the bottle
+
+
+https://user-images.githubusercontent.com/87496409/207136212-4495a59f-c649-4a20-ad26-7c2d0e9076ea.mp4
+
+
+
