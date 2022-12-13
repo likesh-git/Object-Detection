@@ -95,13 +95,9 @@ https://user-images.githubusercontent.com/87496409/207136090-45ab11f3-dad8-49a1-
 
 
 
-### Aquabot taking left turn
 
 
-https://user-images.githubusercontent.com/87496409/207135861-5d527bbf-307e-45fe-9dcb-a6492928fe11.mp4
-
-
-### Aquabot taking right turn
+### Aquabot taking turn
 
 
 
